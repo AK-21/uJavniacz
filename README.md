@@ -1,6 +1,8 @@
 # uJavniacz
 Very simple library provides javax.swing log output window and dialog windows, to helps application event monitoring.
 
+<a href="https://www.dropbox.com/s/w673pv0xi0cf8y8/uJavniacz_1.0.zip?dl=0" target="_blank">Download jar</a>
+
 <strong>What is uJavniacz?</strong>
 
 uJavniacz is a java library, which was created to help inspect program running.
@@ -43,3 +45,5 @@ Data collecting in log may be enabled by function:
 </br></br>
 
 <strong>For more information see project documentation</strong>
+
+<a href="https://www.dropbox.com/s/bqzp8sv5rjie6co/uJavniacz_Doc.zip?dl=0" target="_blank">Download javadoc</a>
